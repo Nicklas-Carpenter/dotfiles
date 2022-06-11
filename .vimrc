@@ -23,3 +23,4 @@ set ruler
 
 " Set the color scheme
 colorscheme desert 
+hi! Normal cterm=NONE ctermbg=NONE
